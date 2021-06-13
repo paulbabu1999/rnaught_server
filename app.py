@@ -320,4 +320,4 @@ def police():
         d={"No Person Nearby": 0}   
 
     return jsonify(d)
-app.run(debug=True,host='0.0.0.0',port=8000)
+app.run()
