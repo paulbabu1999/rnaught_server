@@ -1,1 +1,1 @@
-web: gunicorn app: app
+web: gunicorn rnaught.wsgi --log-file -
