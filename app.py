@@ -320,4 +320,5 @@ def police():
         d={"No Person Nearby": 0}   
 
     return jsonify(d)
-app.run()
+if __name__=='__main__':
+    app.run()
