@@ -5,6 +5,9 @@
 
 ## Introduction
 
+![image](https://github.com/paulbabu1999/rnaught_server/assets/33522991/3db1b3b7-9fbc-4878-855e-848216d8833e)
+
+
 RNaught is a contact tracing and infection prediction application developed under the guidance of "Mar Athanasius College of Engineering". This repository contains the server-side code for the Flask API, which efficiently processes data and serves requests from the RNaught mobile application.
 
 ## Credits
