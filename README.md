@@ -22,7 +22,7 @@ This project is built and maintained under the auspices of "Mar Athanasius Colle
 
 1. Clone the repository:
 
-    git clone https://github.com/your-username/rnaught-server.git
+    git clone git@github.com:paulbabu1999/rnaught_server.git
 	cd rnaught-server
 
 2.  Install the required dependencies:
