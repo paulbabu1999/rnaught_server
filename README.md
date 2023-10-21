@@ -22,8 +22,8 @@ This project is built and maintained under the auspices of "Mar Athanasius Colle
 
 1. Clone the repository:
 
-    git clone git@github.com:paulbabu1999/rnaught_server.git
-	cd rnaught-server
+    git clone git@github.com:paulbabu1999/rnaught_server.git \n
+	cd rnaught_server
 
 2.  Install the required dependencies:
 
