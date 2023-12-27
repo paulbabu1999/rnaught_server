@@ -2,7 +2,7 @@
 from neo4j import GraphDatabase
 from datetime import datetime
 import json
-from utils import findsource, five_level
+from traversals import findsource, five_level
 
 class UserRepository:
     def __init__(self, driver):
